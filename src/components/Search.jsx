@@ -8,7 +8,7 @@ const Search = () => {
                 <img className="w-6 md:w-8" src="/images/icon-search.svg" alt="search" />
             </label>
             <input
-                className="caret-themeColor w-full border-[#5A698F] bg-transparent pb-2 text-white outline-none focus:border-b"
+                className="w-full border-[#5A698F] bg-transparent pb-2 text-white caret-themeColor outline-none focus:border-b search-input"
                 type="text"
                 id="search"
                 placeholder="Search for movies or TV series"
