@@ -13,7 +13,7 @@
             }
         },
         "year": 2019,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "PG",
         "isBookmarked": false,
         "isTrending": true
@@ -32,7 +32,7 @@
             }
         },
         "year": 2021,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "PG",
         "isBookmarked": false,
         "isTrending": true
@@ -70,7 +70,7 @@
             }
         },
         "year": 2021,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "18+",
         "isBookmarked": false,
         "isTrending": true
@@ -104,7 +104,7 @@
             }
         },
         "year": 2019,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "E",
         "isBookmarked": false,
         "isTrending": false
@@ -134,7 +134,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "18+",
         "isBookmarked": true,
         "isTrending": false
@@ -149,7 +149,7 @@
             }
         },
         "year": 2019,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "E",
         "isBookmarked": false,
         "isTrending": false
@@ -194,7 +194,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "E",
         "isBookmarked": false,
         "isTrending": false
@@ -239,7 +239,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "PG",
         "isBookmarked": true,
         "isTrending": false
@@ -269,7 +269,7 @@
             }
         },
         "year": 2015,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "PG",
         "isBookmarked": false,
         "isTrending": false
@@ -284,7 +284,7 @@
             }
         },
         "year": 2021,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "PG",
         "isBookmarked": true,
         "isTrending": false
@@ -299,7 +299,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "18+",
         "isBookmarked": true,
         "isTrending": false
@@ -314,7 +314,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "E",
         "isBookmarked": false,
         "isTrending": false
@@ -344,7 +344,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "E",
         "isBookmarked": true,
         "isTrending": false
@@ -419,7 +419,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "18+",
         "isBookmarked": true,
         "isTrending": false
@@ -449,7 +449,7 @@
             }
         },
         "year": 2017,
-        "category": "Movie",
+        "category": "Movies",
         "rating": "PG",
         "isBookmarked": true,
         "isTrending": false

@@ -16,7 +16,7 @@ const Card = ({ children, item, windowWidth, type }) => {
     return (
         <div className={`relative ${type === "normalCard" ? '' : 'h-[140px] w-[240px] select-none md:h-[230px] md:w-[470px]'}`}>
             <img
-                className="h-full w-full rounded-xl object-cover"
+                className={`h-full ${type === "normalCard" ? 'xl:h-[140px]' : ''} w-full rounded-xl object-cover`}
                 src={getThumbnailUrl(item, windowWidth)}
                 alt={item.title}
             />

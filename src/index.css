@@ -21,3 +21,7 @@
     box-shadow: 0 0 0px 1000px #10141e inset;
     transition: background-color 5000s ease-in-out 0s;
 }
+
+.navbarHover:hover {
+    filter: invert(39%) sepia(100%) saturate(4976%) hue-rotate(325deg) brightness(102%) contrast(102%);
+}
